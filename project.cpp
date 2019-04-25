@@ -4,6 +4,7 @@
 #include <iostream>
 #include <cstdio>
 #include <cctype>
+#include <cmath>
 
 using namespace std;
 
